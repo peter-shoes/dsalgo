@@ -1,0 +1,62 @@
+Nodes of doubly linked list:
+Mike Smith 123-555-7485
+Jack Jackson 987-555-9475
+John Doe 758-555-8395
+Alice Glass (857)-555-6498
+Frank Herbert 837-555-0075
+
+DOING A HEAD FIRST SEARCH!!!!
+Enter a term to search for or 'quit' to quit:
+5
+Found the following for search term '5':
+Alice Glass (857)-555-6498
+Frank Herbert 837-555-0075
+Jack Jackson 987-555-9475
+John Doe 758-555-8395
+Mike Smith 123-555-7485
+Enter a term to search for or 'quit' to quit:
+do
+Found the following for search term 'do':
+John Doe 758-555-8395
+Enter a term to search for or 'quit' to quit:
+ mike
+Found the following for search term 'mike':
+Mike Smith 123-555-7485
+Enter a term to search for or 'quit' to quit:
+q
+No results for search term 'q'. Sorry.
+Enter a term to search for or 'quit' to quit:
+JaCk
+Found the following for search term 'JaCk':
+Jack Jackson 987-555-9475
+Enter a term to search for or 'quit' to quit:
+quit
+Goodbye!
+
+DOING A TAIL FIRST SEARCH!!!!
+Enter a term to search for or 'quit' to quit:
+5
+Found the following for search term '5':
+Alice Glass (857)-555-6498
+Frank Herbert 837-555-0075
+Jack Jackson 987-555-9475
+John Doe 758-555-8395
+Mike Smith 123-555-7485
+Enter a term to search for or 'quit' to quit:
+do
+Found the following for search term 'do':
+John Doe 758-555-8395
+Enter a term to search for or 'quit' to quit:
+ mike
+Found the following for search term 'mike':
+Mike Smith 123-555-7485
+Enter a term to search for or 'quit' to quit:
+q
+No results for search term 'q'. Sorry.
+Enter a term to search for or 'quit' to quit:
+JaCk
+Found the following for search term 'JaCk':
+Jack Jackson 987-555-9475
+Enter a term to search for or 'quit' to quit:
+quit
+Goodbye! For Real!
