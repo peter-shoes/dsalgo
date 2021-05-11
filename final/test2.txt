@@ -1,0 +1,248 @@
+Enter mean departure frequency (0.0 < df > 1.0):
+0.14
+Enter mean arrival frequency   0.0 < af > 1.0):
+0.16
+DEPARTURE: UA549 departed at: 0:10 hrs
+DEPARTURE: UA799 departed at: 0:20 hrs
+ARRIVAL: AA361 arrived at: 0:31 hrs
+DEPARTURE: UA841 departed at: 0:42 hrs
+DEPARTURE: UA968 departed at: 0:52 hrs
+ARRIVAL: AA224 arrived at: 1:03 hrs
+ARRIVAL: AA344 arrived at: 1:13 hrs
+ARRIVAL: AA530 arrived at: 1:23 hrs
+DEPARTURE: UA890 departed at: 1:34 hrs
+Departure queue full. DEPARTURE: UA791 denied at: 1:40 hrs
+DEPARTURE: UA640 departed at: 1:44 hrs
+DEPARTURE: UA241 departed at: 1:54 hrs
+DEPARTURE: UA418 departed at: 2:04 hrs
+DEPARTURE: UA295 departed at: 2:14 hrs
+DEPARTURE: UA999 departed at: 2:24 hrs
+ARRIVAL: AA413 arrived at: 2:35 hrs
+ARRIVAL: AA913 arrived at: 2:45 hrs
+ARRIVAL: AA436 arrived at: 2:55 hrs
+ARRIVAL: AA281 arrived at: 3:05 hrs
+ARRIVAL: AA144 arrived at: 3:15 hrs
+ARRIVAL: AA658 arrived at: 3:25 hrs
+ARRIVAL: AA455 arrived at: 3:35 hrs
+ARRIVAL: AA148 arrived at: 3:45 hrs
+ARRIVAL: AA589 arrived at: 3:55 hrs
+ARRIVAL: AA980 arrived at: 4:05 hrs
+ARRIVAL: AA129 arrived at: 4:15 hrs
+ARRIVAL: AA526 arrived at: 4:25 hrs
+Departure queue full. DEPARTURE: UA965 denied at: 4:32 hrs
+ARRIVAL: AA512 arrived at: 4:35 hrs
+DEPARTURE: UA946 departed at: 4:46 hrs
+DEPARTURE: UA984 departed at: 4:56 hrs
+DEPARTURE: UA460 departed at: 5:06 hrs
+DEPARTURE: UA414 departed at: 5:16 hrs
+DEPARTURE: UA214 departed at: 5:26 hrs
+DEPARTURE: UA720 departed at: 5:36 hrs
+DEPARTURE: UA807 departed at: 5:46 hrs
+Arrival queue full. ARRIVAL: AA244 rerouted at: 5:53 hrs
+DEPARTURE: UA684 departed at: 5:56 hrs
+Arrival queue full. ARRIVAL: AA889 rerouted at: 5:59 hrs
+DEPARTURE: UA922 departed at: 6:06 hrs
+Arrival queue full. ARRIVAL: AA582 rerouted at: 6:09 hrs
+Arrival queue full. ARRIVAL: AA765 rerouted at: 6:09 hrs
+Arrival queue full. ARRIVAL: AA161 rerouted at: 6:11 hrs
+Arrival queue full. ARRIVAL: AA344 rerouted at: 6:13 hrs
+DEPARTURE: UA242 departed at: 6:16 hrs
+Arrival queue full. ARRIVAL: AA105 rerouted at: 6:23 hrs
+DEPARTURE: UA452 departed at: 6:26 hrs
+Arrival queue full. ARRIVAL: AA581 rerouted at: 6:29 hrs
+DEPARTURE: UA194 departed at: 6:36 hrs
+Arrival queue full. ARRIVAL: AA209 rerouted at: 6:39 hrs
+DEPARTURE: UA738 departed at: 6:46 hrs
+Arrival queue full. ARRIVAL: AA340 rerouted at: 6:49 hrs
+ARRIVAL: AA643 arrived at: 6:57 hrs
+Arrival queue full. ARRIVAL: AA173 rerouted at: 7:03 hrs
+ARRIVAL: AA383 arrived at: 7:07 hrs
+ARRIVAL: AA761 arrived at: 7:17 hrs
+ARRIVAL: AA379 arrived at: 7:27 hrs
+ARRIVAL: AA994 arrived at: 7:37 hrs
+ARRIVAL: AA651 arrived at: 7:47 hrs
+ARRIVAL: AA918 arrived at: 7:57 hrs
+ARRIVAL: AA802 arrived at: 8:07 hrs
+Departure queue full. DEPARTURE: UA739 denied at: 8:12 hrs
+ARRIVAL: AA411 arrived at: 8:17 hrs
+Departure queue full. DEPARTURE: UA283 denied at: 8:24 hrs
+ARRIVAL: AA185 arrived at: 8:27 hrs
+Departure queue full. DEPARTURE: UA980 denied at: 8:34 hrs
+Departure queue full. DEPARTURE: UA449 denied at: 8:36 hrs
+Departure queue full. DEPARTURE: UA901 denied at: 8:38 hrs
+DEPARTURE: UA507 departed at: 8:38 hrs
+DEPARTURE: UA174 departed at: 8:48 hrs
+DEPARTURE: UA394 departed at: 8:58 hrs
+DEPARTURE: UA895 departed at: 9:08 hrs
+Departure queue full. DEPARTURE: UA727 denied at: 9:16 hrs
+DEPARTURE: UA751 departed at: 9:18 hrs
+DEPARTURE: UA983 departed at: 9:28 hrs
+Arrival queue full. ARRIVAL: AA687 rerouted at: 9:33 hrs
+DEPARTURE: UA973 departed at: 9:38 hrs
+DEPARTURE: UA395 departed at: 9:48 hrs
+DEPARTURE: UA963 departed at: 9:58 hrs
+Arrival queue full. ARRIVAL: AA644 rerouted at: 10:03 hrs
+Departure queue full. DEPARTURE: UA252 denied at: 10:08 hrs
+DEPARTURE: UA827 departed at: 10:08 hrs
+Arrival queue full. ARRIVAL: AA939 rerouted at: 10:11 hrs
+Arrival queue full. ARRIVAL: AA598 rerouted at: 10:11 hrs
+Arrival queue full. ARRIVAL: AA688 rerouted at: 10:15 hrs
+Arrival queue full. ARRIVAL: AA974 rerouted at: 10:15 hrs
+DEPARTURE: UA522 departed at: 10:18 hrs
+Arrival queue full. ARRIVAL: AA672 rerouted at: 10:21 hrs
+DEPARTURE: UA858 departed at: 10:28 hrs
+DEPARTURE: UA618 departed at: 10:38 hrs
+Arrival queue full. ARRIVAL: AA116 rerouted at: 10:43 hrs
+DEPARTURE: UA598 departed at: 10:48 hrs
+Arrival queue full. ARRIVAL: AA380 rerouted at: 10:55 hrs
+DEPARTURE: UA659 departed at: 10:58 hrs
+DEPARTURE: UA767 departed at: 11:08 hrs
+Departure queue full. DEPARTURE: UA840 denied at: 11:14 hrs
+DEPARTURE: UA670 departed at: 11:18 hrs
+DEPARTURE: UA976 departed at: 11:28 hrs
+Arrival queue full. ARRIVAL: AA896 rerouted at: 11:29 hrs
+DEPARTURE: UA357 departed at: 11:38 hrs
+Arrival queue full. ARRIVAL: AA976 rerouted at: 11:45 hrs
+DEPARTURE: UA684 departed at: 11:48 hrs
+DEPARTURE: UA416 departed at: 11:58 hrs
+DEPARTURE: UA953 departed at: 12:08 hrs
+Arrival queue full. ARRIVAL: AA395 rerouted at: 12:09 hrs
+DEPARTURE: UA846 departed at: 12:18 hrs
+Arrival queue full. ARRIVAL: AA486 rerouted at: 12:19 hrs
+Arrival queue full. ARRIVAL: AA464 rerouted at: 12:19 hrs
+Arrival queue full. ARRIVAL: AA290 rerouted at: 12:21 hrs
+Arrival queue full. ARRIVAL: AA836 rerouted at: 12:23 hrs
+DEPARTURE: UA260 departed at: 12:28 hrs
+Departure queue full. DEPARTURE: UA268 denied at: 12:34 hrs
+Departure queue full. DEPARTURE: UA541 denied at: 12:38 hrs
+Departure queue full. DEPARTURE: UA975 denied at: 12:38 hrs
+DEPARTURE: UA322 departed at: 12:38 hrs
+Arrival queue full. ARRIVAL: AA172 rerouted at: 12:39 hrs
+DEPARTURE: UA888 departed at: 12:48 hrs
+Arrival queue full. ARRIVAL: AA749 rerouted at: 12:51 hrs
+Arrival queue full. ARRIVAL: AA151 rerouted at: 12:51 hrs
+Arrival queue full. ARRIVAL: AA563 rerouted at: 12:57 hrs
+DEPARTURE: UA490 departed at: 12:58 hrs
+DEPARTURE: UA439 departed at: 13:08 hrs
+Arrival queue full. ARRIVAL: AA860 rerouted at: 13:09 hrs
+Arrival queue full. ARRIVAL: AA663 rerouted at: 13:13 hrs
+DEPARTURE: UA782 departed at: 13:18 hrs
+DEPARTURE: UA172 departed at: 13:28 hrs
+Arrival queue full. ARRIVAL: AA939 rerouted at: 13:31 hrs
+Arrival queue full. ARRIVAL: AA879 rerouted at: 13:31 hrs
+Arrival queue full. ARRIVAL: AA562 rerouted at: 13:37 hrs
+DEPARTURE: UA245 departed at: 13:38 hrs
+Arrival queue full. ARRIVAL: AA832 rerouted at: 13:39 hrs
+DEPARTURE: UA216 departed at: 13:48 hrs
+Arrival queue full. ARRIVAL: AA286 rerouted at: 13:57 hrs
+DEPARTURE: UA850 departed at: 13:58 hrs
+DEPARTURE: UA465 departed at: 14:08 hrs
+DEPARTURE: UA621 departed at: 14:18 hrs
+Arrival queue full. ARRIVAL: AA261 rerouted at: 14:23 hrs
+DEPARTURE: UA698 departed at: 14:28 hrs
+Arrival queue full. ARRIVAL: AA489 rerouted at: 14:29 hrs
+Departure queue full. DEPARTURE: UA993 denied at: 14:38 hrs
+DEPARTURE: UA995 departed at: 14:38 hrs
+Arrival queue full. ARRIVAL: AA489 rerouted at: 14:39 hrs
+Arrival queue full. ARRIVAL: AA590 rerouted at: 14:39 hrs
+DEPARTURE: UA291 departed at: 14:48 hrs
+Arrival queue full. ARRIVAL: AA166 rerouted at: 14:53 hrs
+DEPARTURE: UA889 departed at: 14:58 hrs
+Arrival queue full. ARRIVAL: AA745 rerouted at: 15:03 hrs
+Arrival queue full. ARRIVAL: AA945 rerouted at: 15:07 hrs
+DEPARTURE: UA601 departed at: 15:08 hrs
+Arrival queue full. ARRIVAL: AA866 rerouted at: 15:13 hrs
+Departure queue full. DEPARTURE: UA462 denied at: 15:18 hrs
+DEPARTURE: UA258 departed at: 15:18 hrs
+Departure queue full. DEPARTURE: UA986 denied at: 15:28 hrs
+DEPARTURE: UA819 departed at: 15:28 hrs
+Departure queue full. DEPARTURE: UA672 denied at: 15:32 hrs
+Arrival queue full. ARRIVAL: AA501 rerouted at: 15:33 hrs
+DEPARTURE: UA212 departed at: 15:38 hrs
+DEPARTURE: UA356 departed at: 15:48 hrs
+DEPARTURE: UA796 departed at: 15:58 hrs
+DEPARTURE: UA130 departed at: 16:08 hrs
+DEPARTURE: UA890 departed at: 16:18 hrs
+Arrival queue full. ARRIVAL: AA179 rerouted at: 16:25 hrs
+DEPARTURE: UA183 departed at: 16:28 hrs
+DEPARTURE: UA580 departed at: 16:38 hrs
+Arrival queue full. ARRIVAL: AA655 rerouted at: 16:45 hrs
+DEPARTURE: UA151 departed at: 16:48 hrs
+DEPARTURE: UA896 departed at: 16:58 hrs
+Arrival queue full. ARRIVAL: AA503 rerouted at: 17:03 hrs
+Arrival queue full. ARRIVAL: AA354 rerouted at: 17:07 hrs
+DEPARTURE: UA617 departed at: 17:08 hrs
+DEPARTURE: UA243 departed at: 17:18 hrs
+Arrival queue full. ARRIVAL: AA867 rerouted at: 17:27 hrs
+DEPARTURE: UA570 departed at: 17:28 hrs
+Arrival queue full. ARRIVAL: AA507 rerouted at: 17:35 hrs
+DEPARTURE: UA768 departed at: 17:38 hrs
+DEPARTURE: UA646 departed at: 17:48 hrs
+DEPARTURE: UA992 departed at: 17:58 hrs
+Arrival queue full. ARRIVAL: AA206 rerouted at: 17:59 hrs
+Arrival queue full. ARRIVAL: AA374 rerouted at: 18:01 hrs
+Arrival queue full. ARRIVAL: AA364 rerouted at: 18:03 hrs
+DEPARTURE: UA620 departed at: 18:08 hrs
+DEPARTURE: UA407 departed at: 18:18 hrs
+DEPARTURE: UA454 departed at: 18:28 hrs
+ARRIVAL: AA492 arrived at: 18:39 hrs
+ARRIVAL: AA779 arrived at: 18:49 hrs
+ARRIVAL: AA548 arrived at: 18:59 hrs
+ARRIVAL: AA315 arrived at: 19:09 hrs
+ARRIVAL: AA123 arrived at: 19:19 hrs
+ARRIVAL: AA868 arrived at: 19:29 hrs
+ARRIVAL: AA200 arrived at: 19:39 hrs
+ARRIVAL: AA267 arrived at: 19:49 hrs
+ARRIVAL: AA779 arrived at: 19:59 hrs
+ARRIVAL: AA480 arrived at: 20:09 hrs
+ARRIVAL: AA426 arrived at: 20:19 hrs
+DEPARTURE: UA799 departed at: 20:30 hrs
+DEPARTURE: UA290 departed at: 20:40 hrs
+DEPARTURE: UA272 departed at: 20:50 hrs
+DEPARTURE: UA429 departed at: 21:00 hrs
+DEPARTURE: UA596 departed at: 21:10 hrs
+DEPARTURE: UA295 departed at: 21:20 hrs
+DEPARTURE: UA175 departed at: 21:30 hrs
+ARRIVAL: AA328 arrived at: 21:41 hrs
+ARRIVAL: AA323 arrived at: 21:51 hrs
+ARRIVAL: AA775 arrived at: 22:01 hrs
+ARRIVAL: AA684 arrived at: 22:11 hrs
+ARRIVAL: AA218 arrived at: 22:21 hrs
+Departure queue full. DEPARTURE: UA592 denied at: 22:28 hrs
+ARRIVAL: AA890 arrived at: 22:31 hrs
+Departure queue full. DEPARTURE: UA773 denied at: 22:34 hrs
+ARRIVAL: AA859 arrived at: 22:41 hrs
+Departure queue full. DEPARTURE: UA110 denied at: 22:44 hrs
+DEPARTURE: UA448 departed at: 22:52 hrs
+DEPARTURE: UA109 departed at: 23:02 hrs
+Departure queue full. DEPARTURE: UA576 denied at: 23:12 hrs
+DEPARTURE: UA690 departed at: 23:12 hrs
+DEPARTURE: UA479 departed at: 23:22 hrs
+DEPARTURE: UA671 departed at: 23:32 hrs
+Arrival queue full. ARRIVAL: AA356 rerouted at: 23:39 hrs
+Arrival queue full. ARRIVAL: AA843 rerouted at: 23:41 hrs
+DEPARTURE: UA116 departed at: 23:42 hrs
+Arrival queue full. ARRIVAL: AA594 rerouted at: 23:43 hrs
+Arrival queue full. ARRIVAL: AA996 rerouted at: 23:51 hrs
+Arrival queue full. ARRIVAL: AA829 rerouted at: 23:51 hrs
+DEPARTURE: UA288 departed at: 23:52 hrs
+Arrival queue full. ARRIVAL: AA174 rerouted at: 23:55 hrs
+Arrival queue full. ARRIVAL: AA871 rerouted at: 23:57 hrs
+
+======================================
+SIMULATOR STATISTICAL SUMMARY
+======================================
+
+Time Period Simulated: 24:00 hrs
+Number of Arrivals: 45
+Number of Departures: 97
+Total Number of Flights: 142
+Average Arrivals Per Hour: 1.88
+Average Departures Per Hour: 4.04
+Arrivals Remaining in Queue: 5
+Departures Remaining in Queue: 3
+Number of Rereouted Arrivals: 63
+Number of Denied Departures: 21
+Percent of Time Idle Runway: 0.83%
+Average Arrival Time in Queue: 99 mins
+Average Departure Time in Queue: 43 mins

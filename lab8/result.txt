@@ -1,0 +1,239 @@
+Changed statuses
+FlightType:Arrival FlightNumber: AA222 Aircraft Number: NZ-222 Schedule: 07:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA223 Aircraft Number: NZ-223 Schedule: 07:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA224 Aircraft Number: NZ-224 Schedule: 07:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA225 Aircraft Number: NZ-225 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
+FlightType:Departure FlightNumber: AA227 Aircraft Number: NZ-227 Schedule: 07:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA228 Aircraft Number: NZ-228 Schedule: 08:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA229 Aircraft Number: NZ-229 Schedule: 08:10 OpStatus: CancelNoPlane
+FlightType:Arrival FlightNumber: AA230 Aircraft Number: NZ-230 Schedule: 08:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA231 Aircraft Number: NZ-231 Schedule: 08:30 OpStatus: CancelDueDrunkPilot
+FlightType:Arrival FlightNumber: AA232 Aircraft Number: NZ-232 Schedule: 08:40 OpStatus: NavigationError
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA234 Aircraft Number: NZ-234 Schedule: 09:00 OpStatus: CancelDueCrash
+FlightType:Departure FlightNumber: AA235 Aircraft Number: NZ-235 Schedule: 09:10 OpStatus: CancelDueCrash
+FlightType:Arrival FlightNumber: AA236 Aircraft Number: NZ-236 Schedule: 09:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA237 Aircraft Number: NZ-237 Schedule: 09:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA238 Aircraft Number: NZ-238 Schedule: 09:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA239 Aircraft Number: NZ-239 Schedule: 09:50 OpStatus: CancelDueCrash
+FlightType:Arrival FlightNumber: AA240 Aircraft Number: NZ-240 Schedule: 10:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA241 Aircraft Number: NZ-241 Schedule: 10:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA242 Aircraft Number: NZ-242 Schedule: 10:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA243 Aircraft Number: NZ-243 Schedule: 10:30 OpStatus: CancelDuePassengerDisturbance
+FlightType:Arrival FlightNumber: AA244 Aircraft Number: NZ-244 Schedule: 10:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA245 Aircraft Number: NZ-245 Schedule: 10:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA246 Aircraft Number: NZ-246 Schedule: 11:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA247 Aircraft Number: NZ-247 Schedule: 11:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA248 Aircraft Number: NZ-248 Schedule: 11:20 OpStatus: CancelDueCrash
+FlightType:Departure FlightNumber: AA249 Aircraft Number: NZ-249 Schedule: 11:30 OpStatus: CancelNoPlane
+FlightType:Arrival FlightNumber: AA250 Aircraft Number: NZ-250 Schedule: 11:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA251 Aircraft Number: NZ-251 Schedule: 11:50 OpStatus: CancelNoPlane
+FlightType:Arrival FlightNumber: AA252 Aircraft Number: NZ-252 Schedule: 12:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA254 Aircraft Number: NZ-254 Schedule: 12:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA255 Aircraft Number: NZ-255 Schedule: 12:30 OpStatus: CancelDueCrash
+FlightType:Arrival FlightNumber: AA256 Aircraft Number: NZ-256 Schedule: 12:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA257 Aircraft Number: NZ-257 Schedule: 12:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA258 Aircraft Number: NZ-258 Schedule: 13:00 OpStatus: NavigationError
+FlightType:Departure FlightNumber: AA259 Aircraft Number: NZ-259 Schedule: 13:10 OpStatus: CancelNoPlane
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA261 Aircraft Number: NZ-261 Schedule: 13:30 OpStatus: CancelDueDrunkPilot
+FlightType:Arrival FlightNumber: AA262 Aircraft Number: NZ-262 Schedule: 13:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA263 Aircraft Number: NZ-263 Schedule: 13:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA264 Aircraft Number: NZ-264 Schedule: 14:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA265 Aircraft Number: NZ-265 Schedule: 14:10 OpStatus: CancelDuePassengerDisturbance
+FlightType:Arrival FlightNumber: AA266 Aircraft Number: NZ-266 Schedule: 14:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA267 Aircraft Number: NZ-267 Schedule: 14:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA268 Aircraft Number: NZ-268 Schedule: 14:40 OpStatus: CancelDueCrash
+FlightType:Departure FlightNumber: AA269 Aircraft Number: NZ-269 Schedule: 14:50 OpStatus: CancelNoPlane
+FlightType:Arrival FlightNumber: AA270 Aircraft Number: NZ-270 Schedule: 15:00 OpStatus: Scheduled
+Remove cancelled flights
+FlightType:Arrival FlightNumber: AA222 Aircraft Number: NZ-222 Schedule: 07:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA223 Aircraft Number: NZ-223 Schedule: 07:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA224 Aircraft Number: NZ-224 Schedule: 07:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA225 Aircraft Number: NZ-225 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
+FlightType:Departure FlightNumber: AA227 Aircraft Number: NZ-227 Schedule: 07:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA228 Aircraft Number: NZ-228 Schedule: 08:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA230 Aircraft Number: NZ-230 Schedule: 08:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA231 Aircraft Number: NZ-231 Schedule: 08:30 OpStatus: CancelDueDrunkPilot
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA236 Aircraft Number: NZ-236 Schedule: 09:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA237 Aircraft Number: NZ-237 Schedule: 09:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA238 Aircraft Number: NZ-238 Schedule: 09:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA240 Aircraft Number: NZ-240 Schedule: 10:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA241 Aircraft Number: NZ-241 Schedule: 10:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA242 Aircraft Number: NZ-242 Schedule: 10:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA244 Aircraft Number: NZ-244 Schedule: 10:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA245 Aircraft Number: NZ-245 Schedule: 10:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA246 Aircraft Number: NZ-246 Schedule: 11:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA247 Aircraft Number: NZ-247 Schedule: 11:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA250 Aircraft Number: NZ-250 Schedule: 11:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA252 Aircraft Number: NZ-252 Schedule: 12:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA254 Aircraft Number: NZ-254 Schedule: 12:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA256 Aircraft Number: NZ-256 Schedule: 12:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA257 Aircraft Number: NZ-257 Schedule: 12:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA261 Aircraft Number: NZ-261 Schedule: 13:30 OpStatus: CancelDueDrunkPilot
+FlightType:Arrival FlightNumber: AA262 Aircraft Number: NZ-262 Schedule: 13:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA263 Aircraft Number: NZ-263 Schedule: 13:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA264 Aircraft Number: NZ-264 Schedule: 14:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA266 Aircraft Number: NZ-266 Schedule: 14:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA267 Aircraft Number: NZ-267 Schedule: 14:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA270 Aircraft Number: NZ-270 Schedule: 15:00 OpStatus: Scheduled
+Drunk pilots re-assigned
+FlightType:Arrival FlightNumber: Vip003 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip002 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip001 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA222 Aircraft Number: NZ-222 Schedule: 07:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA223 Aircraft Number: NZ-223 Schedule: 07:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA224 Aircraft Number: NZ-224 Schedule: 07:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA225 Aircraft Number: NZ-225 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
+FlightType:Departure FlightNumber: AA227 Aircraft Number: NZ-227 Schedule: 07:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA228 Aircraft Number: NZ-228 Schedule: 08:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA230 Aircraft Number: NZ-230 Schedule: 08:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA231 Aircraft Number: DZ-254 Schedule: 08:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA236 Aircraft Number: NZ-236 Schedule: 09:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA237 Aircraft Number: NZ-237 Schedule: 09:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA238 Aircraft Number: NZ-238 Schedule: 09:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA240 Aircraft Number: NZ-240 Schedule: 10:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA241 Aircraft Number: NZ-241 Schedule: 10:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA242 Aircraft Number: NZ-242 Schedule: 10:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA244 Aircraft Number: NZ-244 Schedule: 10:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA245 Aircraft Number: NZ-245 Schedule: 10:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA246 Aircraft Number: NZ-246 Schedule: 11:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA247 Aircraft Number: NZ-247 Schedule: 11:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA250 Aircraft Number: NZ-250 Schedule: 11:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA252 Aircraft Number: NZ-252 Schedule: 12:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA254 Aircraft Number: NZ-254 Schedule: 12:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA256 Aircraft Number: NZ-256 Schedule: 12:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA257 Aircraft Number: NZ-257 Schedule: 12:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA261 Aircraft Number: DZ-204 Schedule: 13:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA262 Aircraft Number: NZ-262 Schedule: 13:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA263 Aircraft Number: NZ-263 Schedule: 13:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA264 Aircraft Number: NZ-264 Schedule: 14:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA266 Aircraft Number: NZ-266 Schedule: 14:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA267 Aircraft Number: NZ-267 Schedule: 14:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA270 Aircraft Number: NZ-270 Schedule: 15:00 OpStatus: Scheduled
+Cronies jump queue
+FlightType:Arrival FlightNumber: Vip003 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip002 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip001 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA222 Aircraft Number: NZ-222 Schedule: 07:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA223 Aircraft Number: NZ-223 Schedule: 07:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA224 Aircraft Number: NZ-224 Schedule: 07:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA225 Aircraft Number: NZ-225 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
+FlightType:Departure FlightNumber: AA227 Aircraft Number: NZ-227 Schedule: 07:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA228 Aircraft Number: NZ-228 Schedule: 08:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA230 Aircraft Number: NZ-230 Schedule: 08:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA231 Aircraft Number: DZ-254 Schedule: 08:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA236 Aircraft Number: NZ-236 Schedule: 09:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA237 Aircraft Number: NZ-237 Schedule: 09:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA238 Aircraft Number: NZ-238 Schedule: 09:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA240 Aircraft Number: NZ-240 Schedule: 10:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA241 Aircraft Number: NZ-241 Schedule: 10:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA242 Aircraft Number: NZ-242 Schedule: 10:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA244 Aircraft Number: NZ-244 Schedule: 10:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA245 Aircraft Number: NZ-245 Schedule: 10:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA246 Aircraft Number: NZ-246 Schedule: 11:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA247 Aircraft Number: NZ-247 Schedule: 11:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA250 Aircraft Number: NZ-250 Schedule: 11:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA252 Aircraft Number: NZ-252 Schedule: 12:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA254 Aircraft Number: NZ-254 Schedule: 12:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA256 Aircraft Number: NZ-256 Schedule: 12:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA257 Aircraft Number: NZ-257 Schedule: 12:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA261 Aircraft Number: DZ-204 Schedule: 13:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA262 Aircraft Number: NZ-262 Schedule: 13:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA263 Aircraft Number: NZ-263 Schedule: 13:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA264 Aircraft Number: NZ-264 Schedule: 14:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA266 Aircraft Number: NZ-266 Schedule: 14:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA267 Aircraft Number: NZ-267 Schedule: 14:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA270 Aircraft Number: NZ-270 Schedule: 15:00 OpStatus: Scheduled
+Moved queued flights
+FlightType:Arrival FlightNumber: Vip003 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip002 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: Vip001 Aircraft Number: AF-01 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA222 Aircraft Number: NZ-222 Schedule: 07:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA223 Aircraft Number: NZ-223 Schedule: 07:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA224 Aircraft Number: NZ-224 Schedule: 07:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA225 Aircraft Number: NZ-225 Schedule: 07:30 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA227 Aircraft Number: NZ-227 Schedule: 07:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA228 Aircraft Number: NZ-228 Schedule: 08:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA230 Aircraft Number: NZ-230 Schedule: 08:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA231 Aircraft Number: DZ-254 Schedule: 08:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA236 Aircraft Number: NZ-236 Schedule: 09:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA237 Aircraft Number: NZ-237 Schedule: 09:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA238 Aircraft Number: NZ-238 Schedule: 09:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA240 Aircraft Number: NZ-240 Schedule: 10:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA241 Aircraft Number: NZ-241 Schedule: 10:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA242 Aircraft Number: NZ-242 Schedule: 10:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA244 Aircraft Number: NZ-244 Schedule: 10:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA245 Aircraft Number: NZ-245 Schedule: 10:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA246 Aircraft Number: NZ-246 Schedule: 11:00 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA247 Aircraft Number: NZ-247 Schedule: 11:10 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA250 Aircraft Number: NZ-250 Schedule: 11:40 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA252 Aircraft Number: NZ-252 Schedule: 12:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA254 Aircraft Number: NZ-254 Schedule: 12:20 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA256 Aircraft Number: NZ-256 Schedule: 12:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA257 Aircraft Number: NZ-257 Schedule: 12:50 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA261 Aircraft Number: DZ-204 Schedule: 13:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA262 Aircraft Number: NZ-262 Schedule: 13:40 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA263 Aircraft Number: NZ-263 Schedule: 13:50 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA264 Aircraft Number: NZ-264 Schedule: 14:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA266 Aircraft Number: NZ-266 Schedule: 14:20 OpStatus: Scheduled
+FlightType:Departure FlightNumber: AA267 Aircraft Number: NZ-267 Schedule: 14:30 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA270 Aircraft Number: NZ-270 Schedule: 15:00 OpStatus: Scheduled
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
+Flights are now taking off
+===========================
+Flight Vip003 is taking off! Goodbye!
+Flight Vip002 is taking off! Goodbye!
+Flight Vip001 is taking off! Goodbye!
+Flight AA222 is taking off! Goodbye!
+Flight AA223 is taking off! Goodbye!
+Flight AA224 is taking off! Goodbye!
+Flight AA225 is taking off! Goodbye!
+Flight AA227 is taking off! Goodbye!
+Flight AA228 is taking off! Goodbye!
+Flight AA230 is taking off! Goodbye!
+Flight AA231 is taking off! Goodbye!
+Flight AA236 is taking off! Goodbye!
+Flight AA237 is taking off! Goodbye!
+Flight AA238 is taking off! Goodbye!
+Flight AA240 is taking off! Goodbye!
+Flight AA241 is taking off! Goodbye!
+Flight AA242 is taking off! Goodbye!
+Flight AA244 is taking off! Goodbye!
+Flight AA245 is taking off! Goodbye!
+Flight AA246 is taking off! Goodbye!
+Flight AA247 is taking off! Goodbye!
+Flight AA250 is taking off! Goodbye!
+Flight AA252 is taking off! Goodbye!
+Flight AA254 is taking off! Goodbye!
+Flight AA256 is taking off! Goodbye!
+Flight AA257 is taking off! Goodbye!
+Flight AA261 is taking off! Goodbye!
+Flight AA262 is taking off! Goodbye!
+Flight AA263 is taking off! Goodbye!
+Flight AA264 is taking off! Goodbye!
+Flight AA266 is taking off! Goodbye!
+Flight AA267 is taking off! Goodbye!
+Flight AA270 is taking off! Goodbye!
+Remaining flights:
+FlightType:Arrival FlightNumber: AA260 Aircraft Number: NZ-260 Schedule: 13:20 OpStatus: Queued
+FlightType:Departure FlightNumber: AA253 Aircraft Number: NZ-253 Schedule: 12:10 OpStatus: Queued
+FlightType:Departure FlightNumber: AA233 Aircraft Number: NZ-233 Schedule: 08:50 OpStatus: Queued
+FlightType:Arrival FlightNumber: AA226 Aircraft Number: NZ-226 Schedule: 07:40 OpStatus: Queued
