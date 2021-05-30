@@ -1,0 +1,11 @@
+This tree is an approximation of one I created earlier in the year when working on an interpreter (in java) for a language called plankalkul.
+It is meant to model the tokenizing of what are called "lexemes".
+Plankalkul ("Planned Calculus" in German) was one of the first structured "programming languages" ever devised.
+Konrad Zuse created the language as a universal set for creating instructions on primitive computers.
+At the time, computers had to be programmed manually by moving around wires.
+The original language works on a 2-dimensional matrix (check it out, it's tough to explain),
+but I created an interpreter for what is called "linearized plankalkul" or "plankalkul 2000",
+which was devised by some researchers in 1998.
+There are three types of variables which are defined by how many bits they have (or how many arrays of bits) and which bit the variable is referencing.
+The regex for this is '[VZRi]\d+\[(?:\d+\.+)*\d*\:(?:\d+\.+)*0\]' (done painstakingly by hand).
+Other than that, the symbols are fairly similar logic to what we use today.
